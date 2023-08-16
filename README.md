@@ -7,13 +7,6 @@ Data engineer
 * 🌍  I'm based in Saint-Petersburg, Russia
 * ✉️  You can contact me at [olegprivalov0411@gmail.com](mailto:olegprivalov0411@gmail.com)
 
-### Skills
-
-
-<p align="left">
-[ICON ICON ICON ICON ICON](https://www.profileme.dev/create-profile#:~:text=ICON%20ICON%20ICON%20ICON%20ICON)
-</p>
-
 
 ### Socials
 
