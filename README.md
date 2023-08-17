@@ -4,7 +4,7 @@
 - 👨‍💻 All of my projects are available at [here](https://github.com/Oleg0411/projects).
   - Some of them:
     - [Analytics for HR and SMM departments](https://github.com/Oleg0411/projects/blob/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B4%D0%BB%D1%8F%20HR%20%D0%B8%20SMM%20%D0%BE%D1%82%D0%B4%D0%B5%D0%BB%D0%BE%D0%B2.ipynb);
-    - [Course Analytics]((https://github.com/Oleg0411/projects/blob/main/Courses%20analytics.ipynb)
+    - [Course Analytics](https://github.com/Oleg0411/projects/blob/main/Courses%20analytics.ipynb)
 
 - 📫 How to reach me **olegprivalov0411@gmail.com**
 
