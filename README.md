@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oleg Privalov</h1>
+<h1 align="center">Hi 👋. I'm Oleg Privalov</h1>
 <h3 align="center">A data engineer from Russia</h3>
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/Oleg0411/projects).
