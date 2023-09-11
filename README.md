@@ -3,6 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/Oleg0411/projects).
   - Some of them:
+    - [Data pipeline (PostgreSQL to Vertica using DAG Airflow)](https://github.com/Oleg0411/projects/tree/main/data_pipeline)
     - [Analytics for HR and SMM departments](https://github.com/Oleg0411/projects/blob/main/Analytics%20for%20HR%20and%20SMM%20departments.ipynb);
     - [Course Analytics](https://github.com/Oleg0411/projects/blob/main/Courses%20analytics.ipynb)
 
